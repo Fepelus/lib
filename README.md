@@ -1,2 +1,5 @@
 # lib
-JavaScript standard library
+
+My library of JavaScript stuff
+
+
